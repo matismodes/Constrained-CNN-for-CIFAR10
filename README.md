@@ -1,4 +1,4 @@
-# cifar10_nndl
+<h1>Constrained CNN for CIFAR-10</h1>
 Constrained NN Architecture for CIFAR-10 Dataset Prediction
 
 1. Dataset:
